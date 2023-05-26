@@ -7,4 +7,4 @@ This repository containg extensive hyperparameter study of resnet architecture o
 5. Batch size
 
 on validation dataset F1 scores.
-All the results are available [here](../blob/master/report.pdf)
+All the results are available [here](../master/report.pdf)
